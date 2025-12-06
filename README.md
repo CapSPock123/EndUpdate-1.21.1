@@ -1,3 +1,5 @@
+### THIS MOD HAS NOW BEEN ARCHIVED AS IT HAS BEEN BACKPORTED TO 1.20.1 FOR DEVELOPMENT
+
 ### End Update 
 
 Finally bringing an update to the End Dimension
